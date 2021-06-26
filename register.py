@@ -1,5 +1,7 @@
-num1 = 100 #张三
+num1 = 100 
 num2 = 200
-num = num1 + num2
-print('this is the result',num)
-# manager
+num3 = 300
+num4 = 400
+#codefarmer
+
+
